@@ -1,0 +1,18 @@
+{
+  "name": "musicnoads",
+  "version": "1.0.0",
+  "description": "This project is intented for personal purposes musicnoads",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test run"
+  },
+  "author": "Angelito A. Domingo",
+  "license": "Unlicense",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
